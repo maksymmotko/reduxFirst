@@ -17,12 +17,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "46ac78a6-fafc-43d0-aa0a-b4706f62e77f",
-      "name": "Sarkisian",
-      "description": "Nichego",
-      "element": "earth"
     }
   ],
   "filters": [
